@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikolay Rumenov (@rumennik) from MarTech
+- 👋 Hi, I’m Nikolay Rumenov from MarTech /Flutter Intl/
 - 👀 I’m interested in JavaScript and all stages of SDLC
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on any projects
