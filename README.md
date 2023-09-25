@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nikolay Rumenov (@rumennik) from MarTech
+- 👀 I’m interested in JavaScript and all stages of SDLC
+- 🌱 I’m currently learning Github
+- 💞️ I’m looking to collaborate on any projects
+- 📫 How to reach me: nikolay_rumenov@flutterint.com 
